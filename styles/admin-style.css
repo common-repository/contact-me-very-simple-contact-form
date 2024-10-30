@@ -1,0 +1,15 @@
+.vvcf-admin-label {
+  cursor: default;
+  vertical-align: top;
+  margin-right: 20px;
+  font-size: 14px;
+}
+.vvcf-admin-subtitle {
+  vertical-align: top;
+  color: #a5a5a5;
+  display: block
+}
+.button-primary.vvcf-admin-submit {
+  display: block;
+  margin-top: 20px;
+}
